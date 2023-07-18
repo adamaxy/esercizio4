@@ -7,7 +7,7 @@ public class test {
         System.out.println(a);
      int b = a;
         b+= 1;
-    int x = b + 1 
+    int x = b + 1;
      if (b % 2 == 0 && b * x % 3 == 0 ){
          System.out.println("il numero è pari ed è multiplo di 3");
      }
