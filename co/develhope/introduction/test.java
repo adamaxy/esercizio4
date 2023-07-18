@@ -1,4 +1,3 @@
-package co.develhope.introduction;
 
 public class test {
     public static void main(String [] arg){
